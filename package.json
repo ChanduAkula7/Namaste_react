@@ -1,0 +1,23 @@
+{
+  "name": "namaste_project",
+  "version": "1.0.0",
+  "description": "this is react project indetail",
+  "main": "y",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanduAkula7/Namaste_react.git"
+  },
+  "keywords": [
+    "namaste",
+    "react"
+  ],
+  "author": "Chandu Akula by Namaste_react",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChanduAkula7/Namaste_react/issues"
+  },
+  "homepage": "https://github.com/ChanduAkula7/Namaste_react#readme"
+}
